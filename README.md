@@ -16,3 +16,4 @@ Website is made using:
 * 👉 HTML
 * 👉 CSS
 * 👉 JavaScript
+* 👉 JQuery
