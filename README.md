@@ -11,3 +11,8 @@ This is a challenge which I did as a part of a Web Development Bootcamp program.
 
 For Example., If the first color that pops-up is "Red", then the current pattern is [Red]. Let's say the next color is "Blue", then the pattern becomes [Red,Blue]. Then if "Green" comes, the pattern becomes [Red,Blue,Green]. If later again red comes, the pattern becomes [Red,Blue,Green,Red] and so on.
 If you get this pattern wrong, then its **"GAME OVER"** and the games gets reset.
+
+Website is made using:
+* 👉 HTML
+* 👉 CSS
+* 👉 JavaScript
